@@ -19,6 +19,7 @@ Test laravel with lib: nikita/findrows
 
 
 
+
 1. Lib for task - https://github.com/NikMel95/findrows
    
    Controller with lib - https://github.com/NikMel95/fr/blob/master/app/Http/Controllers/FindController.php
