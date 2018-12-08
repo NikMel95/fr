@@ -1,0 +1,71 @@
+.guestbook {
+  margin-bottom: 60px;
+}
+.guestbook__title {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+}
+.guestbook__messagelist__item {
+  padding: 10px;
+  margin-top: 30px;
+  box-shadow: 0 0 30px rgba(75, 72, 214, .3);
+}
+.guestbook__messagelist__itemheader {
+  overflow: hidden;
+  font-size: 0;
+
+}
+.guestbook__messagelist__itemavatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  display: inline-block;
+  vertical-align: top;
+  color: #4b48d6;
+  border: 2px solid #4b48d6;
+  font-size: 40px;
+  text-align: center;
+  line-height: 80px;
+}
+.guestbook__messagelist__iteminfo {
+  display: inline-block;
+  margin-left: 20px;
+  width: calc(100% - 100px);
+  vertical-align: top;
+  font-size: 18px;
+}
+.guestbook__messagelist__itemtext {
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.btn-wrp {
+  margin-top: 30px;
+  text-align: center;
+}
+.guestbook__form {
+  margin-bottom: 30px;
+}
+.template-popup-action {
+  position: relative;
+  border-radius: 3px;
+  padding-top: 20px;
+  background: #fff;
+  text-align: center;
+}
+.template-popup-action .btn-close {
+  width: 100%;
+  padding: 10px 0;
+  display: inline-block;
+  background: rgba(133,133,133, .2);
+  margin-top: 20px;
+  font-size: 16px;
+  color: #3490dc;
+  text-decoration: none;
+}
+.loading {
+  position: fixed;
+  top: 20px;
+  left: 30px;
+}
