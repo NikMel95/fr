@@ -21,5 +21,5 @@ Test laravel with lib: nikita/findrows
    
    Controller - https://github.com/NikMel95/fr/blob/master/app/Http/Controllers/FindController.php
    
-2. Controller для SQL - https://github.com/NikMel95/fr/blob/master/app/Http/Controllers/SQLController.php
+2. Controller для SQL(PostgreSQL) - https://github.com/NikMel95/fr/blob/master/app/Http/Controllers/SQLController.php
 
