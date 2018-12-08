@@ -18,6 +18,8 @@ Test laravel with lib: nikita/findrows
 
 
 1. Библиотека для задания - https://github.com/NikMel95/findrows
+   
    Controller - https://github.com/NikMel95/fr/blob/master/app/Http/Controllers/FindController.php
+   
 2. Controller для SQL - https://github.com/NikMel95/fr/blob/master/app/Http/Controllers/SQLController.php
 
